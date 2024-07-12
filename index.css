@@ -9,20 +9,16 @@ img {
   display: block;
 }
 
-main {
+.container {
   width: 640px;
   margin: auto;
 
-  /* padding-top: 150px; */
+  padding-top: 150px;
 }
 
 
 .dpf {
   display: flex;
-}
-
-.w {
-  width: 288px;
 }
 
 .m-l-r {
